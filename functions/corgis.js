@@ -36,7 +36,7 @@ exports.handler = async () => ({
       alt: 'a corgi puppy looking up and smiling',
       credit: 'Hanson Lu',
       url:
-        'https://images.unsplash.com/photo-1597806999047-9456837df754?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80&crop=edges',
+        'https://images.unsplash.com/photo-1597806999047-9456837df754?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80&crop=entropy',
       name: 'Atticus',
       favoriteSong: 'Furrell Williams — Yappy',
     },
@@ -54,7 +54,7 @@ exports.handler = async () => ({
       alt: 'a corgi sitting in a tent with string lights surrounding it',
       credit: 'Cole Keister',
       url:
-        'https://images.unsplash.com/photo-1546975490-e8b92a360b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&h=300&q=80&crop=edges',
+        'https://images.unsplash.com/photo-1546975490-e8b92a360b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&h=300&q=80&crop=center',
       name: 'Admiral Ackbark',
       favoriteSong: 'Splootie & The Blowfish — Only Wanna Steal Your Food',
     },
